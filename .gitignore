@@ -1,0 +1,32 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+venv/
+ENV/
+env/
+*.env
+*.egg-info/
+build/
+dist/
+
+# Node.js / npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# React build artifacts
+build/
+.cache/
+
+# Editor and OS files
+*.swp
+*.swo
